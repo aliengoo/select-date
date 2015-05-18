@@ -3,7 +3,7 @@
   app.controller('App', App);
   
   function App(){
-    var vm = this;
+    let vm = this;
     
     vm.message = 'Hello, World!';
   }

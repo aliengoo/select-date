@@ -8,15 +8,14 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-angular-templatecache": "^1.6.0",
+    "gulp-babel": "^5.1.0",
     "gulp-concat": "^2.5.2",
     "gulp-filter": "^2.0.2",
     "gulp-livereload": "^3.8.0",
     "gulp-load-plugins": "^0.10.0",
     "main-bower-files": "^2.8.0"
-  },
-  "devDependencies": {
-    "gulp-angular-templatecache": "^1.6.0"
   }
 }
